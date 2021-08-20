@@ -1,2 +1,2 @@
-# os212
-Operating Systems 2021-1 (Odd Semester 2021/2022)
+# OS212 | Operating Systems 2021-1
+* [GitHub Page](https://ana117.github.io/os212)
