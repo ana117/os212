@@ -1,11 +1,6 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-<<<<<<< HEAD
 ZCZC W00 15 L03 Create repository
 ZCZC W00 15 L04 Create GitHub Pages
 ZCZC W00 10 L04 Update GitHub Pages
-=======
-ZCZC W00 15 L03 GitHub related
-ZCZC W00 15 L04 GitHub Pages related
->>>>>>> 541a77fe6fe30aaf8c3d1dcfcfe1b3fe3f5af1c0
