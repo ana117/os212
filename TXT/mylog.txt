@@ -15,3 +15,4 @@ ZCZC W00 180 L15 Assignment #05 - GNU/Linux
 ZCZC W01  10 L11 Assignment #01 - Download VirtualBox and OVA
 ZCZC W01   5 L12 Assignment #02 - Import OVA
 ZCZC W01  90 L13 Assignment #03 - Trying basic commands
+ZCZC W01  60 L14 Assignment #04 - Change username and hostname, add/update package
