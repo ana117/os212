@@ -5,12 +5,6 @@ permalink: /LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, sore wa tempura hokben.
-
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+1. [Basic Linux Commands](https://www.freecodecamp.org/news/the-linux-commands-handbook/)<br>
+60 basic commands with explanation and example.
+For me, a total beginner, this links is useful because I'm not used to reading the built-in man command.
