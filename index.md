@@ -1,6 +1,6 @@
 # Operating System - C
 
-## [Home](https://ana117.github.io/os212/) | [Repo](https://github.com/ana117/os212) | [Log](https://ana117.github.io/os212/TXT/mylog.txt) | Links
+## [Home](https://ana117.github.io/os212/) | [Repo](https://github.com/ana117/os212) | [Log](https://ana117.github.io/os212/TXT/mylog.txt) | [Links](links.md)
 
 ### Resources:
 * [Main Website / OSVLSM](https://os.vlsm.org/)
