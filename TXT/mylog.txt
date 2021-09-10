@@ -20,3 +20,4 @@ ZCZC W01  15 L14 Assignment #04 - Create bash profile, bash alias, vimrc
 ZCZC W01  60 L15 Assignment #05 - SSH and clone repo
 ZCZC W01  10 L16 Assignment #06 - Add links.md
 ZCZC W01   5 L17 Assignment #07 - Update log from debian
+ZCZC W01  90 L19 Assignment #09 - Reading ch.1, 2, 18
