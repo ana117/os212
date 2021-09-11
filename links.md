@@ -9,6 +9,6 @@ permalink: /LINKS/
 60 basic commands with explanation and example.
 For me, a total beginner, this links is useful because I'm not used to reading the built-in man command.
 
-2. [AWK](https://www.gnu.org/software/gawk/manual/gawk.html)
+2. [AWK](https://www.gnu.org/software/gawk/manual/gawk.html)<br>
 Official documentation(?) of AWK
 
