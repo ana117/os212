@@ -22,3 +22,5 @@ ZCZC W01  10 L16 Assignment #06 - Add links.md
 ZCZC W01   5 L17 Assignment #07 - Update log from debian
 ZCZC W01  90 L19 Assignment #09 - Reading ch.1, 2, 18
 ZCZC W01 120 L18 Assignment #08 - Try scripting with awk, sed, grep, regex
+ZCZC W02  30 L12 Assignment #02 - Trying Week 0-2 demos
+
