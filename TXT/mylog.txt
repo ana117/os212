@@ -27,4 +27,5 @@ ZCZC W02   5 L14 Assignment #04 - Generate GPG Key
 ZCZC W02   2 L15 Assignment #05 - Show list of GPG Keys
 ZCZC W02   5 L16 Assignment #06 - Import ospubkey
 ZCZC W02   1 L18 Assignment #08 - Export mypubkey
-
+ZCZC W02 125 L13 Assignment #03 - Watching CyberSec Intro pt. 1
+ 
