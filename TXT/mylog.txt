@@ -29,4 +29,10 @@ ZCZC W02   5 L16 Assignment #06 - Import ospubkey
 ZCZC W02   1 L18 Assignment #08 - Export mypubkey
 ZCZC W02 125 L13 Assignment #03 - Watching CyberSec Intro (CyberSec pt. 1)
 ZCZC W02 150 L13 Assignment #03 - Watching Employee Security Policy (CyberSec pt. 2)
+ZCZC W02   5 L17 Assignment #07 - Sign OS pubkey
+ZCZC W02  15 L19 Assignment #09 - Update mylinks
+ZCZC W02  15 L20 Assignment #10 - Create myrank.txt and review W02 links
+ZCZC W02  20 L09 Assignment #11 - Copy cbkadal's script
+ZCZC W02  10 L09 Assignment #13 - Script to generate SHA256SUM
+ZCZC W02   5 L09 Assignment #12 - Update mylog
 
