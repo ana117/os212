@@ -35,4 +35,5 @@ ZCZC W02  15 L20 Assignment #10 - Create myrank.txt and review W02 links
 ZCZC W02  20 L09 Assignment #11 - Copy cbkadal's script
 ZCZC W02  10 L09 Assignment #13 - Script to generate SHA256SUM
 ZCZC W02   5 L09 Assignment #12 - Update mylog
+ZCZC W02  45 L11 Assignment #01 - Read OSC ch. 16, 17
 
