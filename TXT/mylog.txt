@@ -36,4 +36,12 @@ ZCZC W02  20 L09 Assignment #11 - Copy cbkadal's script
 ZCZC W02  10 L09 Assignment #13 - Script to generate SHA256SUM
 ZCZC W02   5 L09 Assignment #12 - Update mylog
 ZCZC W02  45 L11 Assignment #01 - Read OSC ch. 16, 17
-
+ZCZC W03  30 L11 Assignment #01 - Read OSC ch. 13, 14, 15 (continuing from sync session)
+ZCZC W03  45 L13 Assignment #03 - Trying MidTem W03 #6 and #7
+ZCZC W03  30 L12 Assignment #02 - Trying FUSE demos
+ZCZC W03   5 L14 Assignment #04 - Update bash_aliases
+ZCZC W03  45 L15 Assignment #05 - Create, format, mount, chown, and test a new disk
+ZCZC W03  15 L16 Assignment #06 - Update my links
+ZCZC W03  10 L17 Assignment #07 - Review peer links
+ZCZC W03   5 L18 Assignment #08 - Update log
+ZCZC W03  15 L19 Assignment #09 - Submit W03 Assignment
