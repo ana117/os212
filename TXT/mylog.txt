@@ -49,4 +49,5 @@ ZCZC W04  30 L11 Assignment #01 - Read OSC ch. 9
 ZCZC W04  15 L12 Assignment #02 - Trying demos 1-5
 ZCZC W04   3 L14 Assignment #04 - Install package list 2
 ZCZC W04  10 L15 Assignment #05 - Download and compile TLPI
+ZCZC W04  10 L12 Assignment #02 - Trying demos 6-10
 
