@@ -24,3 +24,6 @@ Definition, structure visualization, and types of file system in unix. The struc
 6. [File Allocation](https://www.geeksforgeeks.org/file-allocation-methods/)<br>
 There are 3 methods, contiguous, linked, and indexed allocation. In contiguous, each file occupies a contiguous set of blocks on a disk. In linked, each occupied block have a pointer to the next block and can be scattered. In indexed, there's a special block called Index Block that contains the pointer to all blocks occupied by a file.
 
+7. Memory Management | [Source 1](https://www.studytonight.com/operating-system/memory-management) | [Source 2](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
+Sources from internet about memory management. Includes addresses, allocation, fragmentation, paging, segmentation, and loading & linking. Might be useful for next quiz.
+
