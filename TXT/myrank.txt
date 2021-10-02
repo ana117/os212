@@ -4,4 +4,7 @@ ZCZC W02 anandafadhil
 ZCZC W02 ardanisar
 ZCZC W03 athaqilmakarim
 ZCZC W03 bienreti
-ZCZC W03 chreploe
+ZCZC W03 ariiesaka
+ZCZC W04 bimabara
+ZCZC W04 chreploe
+ZCZC W04 bintangazriel
