@@ -50,4 +50,5 @@ ZCZC W04  15 L12 Assignment #02 - Trying demos 1-5
 ZCZC W04   3 L14 Assignment #04 - Install package list 2
 ZCZC W04  10 L15 Assignment #05 - Download and compile TLPI
 ZCZC W04  10 L12 Assignment #02 - Trying demos 6-10
-
+ZCZC W04  10 L16 Assignment #06 - Update links
+ZCZC W04   5 L17 Assignment #07 - Review peer's link
