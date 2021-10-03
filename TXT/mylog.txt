@@ -52,3 +52,6 @@ ZCZC W04  10 L15 Assignment #05 - Download and compile TLPI
 ZCZC W04  10 L12 Assignment #02 - Trying demos 6-10
 ZCZC W04  10 L16 Assignment #06 - Update links
 ZCZC W04   5 L17 Assignment #07 - Review peer's link
+ZCZC W04  90 L13 Assignment #03 - MidTem problems W04
+ZCZC W04   5 L18 Assignment #08 - Update log
+ZCZC W04   5 L19 Assignment #09 - Submit W04 assignment
