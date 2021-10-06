@@ -56,3 +56,4 @@ ZCZC W04  90 L13 Assignment #03 - MidTem problems W04
 ZCZC W04   5 L18 Assignment #08 - Update log
 ZCZC W04   5 L19 Assignment #09 - Submit W04 assignment
 ZCZC W05  90 L13 Assignment #03 - Trying MidTem W05 2,3,4
+ZCZC W05  90 L14 Assignment #04 - Try lowering memory, fetch W05 files, and modify (not sure if its correct)
