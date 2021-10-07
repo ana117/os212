@@ -57,3 +57,6 @@ ZCZC W04   5 L18 Assignment #08 - Update log
 ZCZC W04   5 L19 Assignment #09 - Submit W04 assignment
 ZCZC W05  90 L13 Assignment #03 - Trying MidTem W05 2,3,4
 ZCZC W05  90 L14 Assignment #04 - Try lowering memory, fetch W05 files, and modify (not sure if its correct)
+ZCZC W05  30 L15 Assignment #05 - Update my links
+ZCZC W05  30 L14 Assignment #04 - Redo modifying mymemory2.c with lower memory (190MB)
+ZCZC W05  10 L17 Assignment #07 - Review peer links (currently only 1, others haven't updated their links)
