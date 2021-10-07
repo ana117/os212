@@ -27,3 +27,9 @@ There are 3 methods, contiguous, linked, and indexed allocation. In contiguous, 
 7. Memory Management | [Source 1](https://www.studytonight.com/operating-system/memory-management) | [Source 2](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
 Sources from internet about memory management. Includes addresses, allocation, fragmentation, paging, segmentation, and loading & linking. Might be useful for next quiz.
 
+8. [Debian Bullseye Memory] (https://www.debian.org/releases/bullseye/amd64/ch03s04.en.html)<br>
+Debian official documentation said that 256MB is the minimum RAM for no desktop type. I tried going lower and got to 190MB memory (crashed at 180MB).
+
+9. [Belady's Anomaly](https://www.geeksforgeeks.org/beladys-anomaly-in-page-replacement-algorithms/)<br>
+Anomaly in page replacement algorithm where increasing the number of frame also increase the number of page faults. This anomaly usually occurs on FIFO algorithm when it doesnt follow the stack algorithm (the lesser frame is not a subset of the bigger one). Please correct me if I'm wrong :D
+
