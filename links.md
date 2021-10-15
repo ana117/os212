@@ -33,3 +33,6 @@ Debian official documentation said that 256MB is the minimum RAM for no desktop 
 9. [Belady's Anomaly](https://www.geeksforgeeks.org/beladys-anomaly-in-page-replacement-algorithms/)<br>
 Anomaly in page replacement algorithm where increasing the number of frame also increase the number of page faults. This anomaly usually occurs on FIFO algorithm when it doesnt follow the stack algorithm (the lesser frame is not a subset of the bigger one). Please correct me if I'm wrong :D
 
+10. [Fork() Bomb](https://www.geeksforgeeks.org/fork-bomb/)<br>
+Infinitely calling fork() can fill up your system memory making it unuseable. Fork bomb is a denial of service attack on Linux based system. One way to prevent it is by limiting allowed user's process in /etc/security/limits.conf
+
