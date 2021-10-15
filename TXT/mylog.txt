@@ -66,3 +66,10 @@ ZCZC W05  30 L12 Assignment #02 - Trying demos (top stuff)
 ZCZC W05  10 L17 Assignment #07 - Review peer links
 ZCZC W05   5 L18 Assignment #08 - Update log
 ZCZC W05   5 L19 Assignment #09 - Submit W05 assignment
+ZCZC W06  60 L12 Assignment #02 - Trying demos from 07 (continuing from sync session)
+ZCZC W06  45 L13 Assignment #03 - Trying W06 problems
+ZCZC W06  30 L14 Assignment #04 - Do assignment 4
+ZCZC W06  15 L15 Assignment #05 - Update my links
+ZCZC W06  10 L17 Assignment #07 - Review peer links
+ZCZC W06   5 L18 Assignment #08 - Update log
+ZCZC W06   5 L19 Assignment #09 - Submit W06
