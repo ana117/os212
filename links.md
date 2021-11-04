@@ -36,3 +36,8 @@ Anomaly in page replacement algorithm where increasing the number of frame also 
 10. [Fork() Bomb](https://www.geeksforgeeks.org/fork-bomb/)<br>
 Infinitely calling fork() can fill up your system memory making it unuseable. Fork bomb is a denial of service attack on Linux based system. One way to prevent it is by limiting allowed user's process in /etc/security/limits.conf
 
+11. [Shared Memory](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm)<br>
+Two or more processes (ex. parent and child from fork) can interact with each other using shared memory (one of IPC techniques). Shared memory, as the name implies, is a memory that is shared between multiple process. Some systems call related to shared memory is shmget(), shmat(), shmdt(), and shmctl().
+
+12. [Semaphores](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+Semaphore is an integer variable that is shared between threads. Semaphore is used to prevent critical section problems. There are two types of semaphore, binary (aka mutex lock) and counting. You can increment or decrement the value using signal() or wait().
