@@ -78,3 +78,8 @@ ZCZC W07  20 L14 Assignment #04 - Do W07 assignment
 ZCZC W07  30 L12 Assignment #02 - Try demos 1-3
 ZCZC W07  15 L15 Assignment #05 - Update links
 ZCZC W07  10 L17 Assignment #07 - Review peer links
+ZCZC W07  60 L11 Assignment #01 - Read OSC ch. 6,7,8 (continuing from sync session)
+ZCZC W07  30 L12 Assignment #02 - Try all demos (continuing from sync session)
+ZCZC W07  45 L13 Assignment #03 - Try some FinalW07 problems
+ZCZC W07   3 L18 Assignment #08 - Update log
+ZCZC W07   2 L19 Assignment #09 - Submit W07 assignment
