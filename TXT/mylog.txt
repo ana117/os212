@@ -83,3 +83,4 @@ ZCZC W07  30 L12 Assignment #02 - Try all demos (continuing from sync session)
 ZCZC W07  45 L13 Assignment #03 - Try some FinalW07 problems
 ZCZC W07   3 L18 Assignment #08 - Update log
 ZCZC W07   2 L19 Assignment #09 - Submit W07 assignment
+ZCZC W08  45 L14 Assignment #04 - LFS01-04
