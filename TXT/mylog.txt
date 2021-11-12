@@ -85,3 +85,11 @@ ZCZC W07   3 L18 Assignment #08 - Update log
 ZCZC W07   2 L19 Assignment #09 - Submit W07 assignment
 ZCZC W08  45 L14 Assignment #04 - LFS_01-04
 ZCZC W08  75 L15 Assignment #05 - LFS_05
+ZCZC W08  30 L11 Assignment #01 - Read OSC ch. 5 (continuing from sync session)
+ZCZC W08  30 L12 Assignment #02 - Try some demos
+ZCZC W08  30 L13 Assignment #03 - Try some problems (continuing from sync session)
+ZCZC W08  15 L16 Assignment #06 - Update my links
+ZCZC W08  10 L17 Assignment #07 - Create tips
+ZCZC W08  10 L18 Assignment #08 - Review peer links
+ZCZC W08   5 L19 Assignment #09 - Update log
+ZCZC W08   5 L20 Assignment #10 - Submit W08 assignment
