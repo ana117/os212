@@ -41,3 +41,7 @@ Two or more processes (ex. parent and child from fork) can interact with each ot
 
 12. [Semaphores](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
 Semaphore is an integer variable that is shared between threads. Semaphore is used to prevent critical section problems. There are two types of semaphore, binary (aka mutex lock) and counting. You can increment or decrement the value using signal() or wait().
+
+13. [Linux From Scratch](https://www.linuxfromscratch.org/)<br>
+LFS is a project with step-by-step instruction on how to build your own Linux sysystem. You can create your own compact, flexible, and secure Linux system compared to existing distribution. You can also learn on how Linux system works internally.
+
