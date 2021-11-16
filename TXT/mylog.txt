@@ -93,3 +93,4 @@ ZCZC W08  10 L17 Assignment #07 - Create tips
 ZCZC W08  10 L18 Assignment #08 - Review peer links
 ZCZC W08   5 L19 Assignment #09 - Update log
 ZCZC W08   5 L20 Assignment #10 - Submit W08 assignment
+ZCZC W09  80 L14 Assignment #04 - LFS ch. 6 done
