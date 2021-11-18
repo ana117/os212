@@ -45,3 +45,5 @@ Semaphore is an integer variable that is shared between threads. Semaphore is us
 13. [Linux From Scratch](https://www.linuxfromscratch.org/)<br>
 LFS is a project with step-by-step instruction on how to build your own Linux sysystem. You can create your own compact, flexible, and secure Linux system compared to existing distribution. You can also learn on how Linux system works internally.
 
+14. [RAID](https://searchstorage.techtarget.com/definition/RAID)<br>
+RAID (redundant array of independent disks) is a way of storing data in different places on multiple storage to protect data in case of a drive failure. Not all RAID levels have the goal of providing protection (redundancy). I've only heard about RAID 0 and RAID 1 before. RAID 0 doesn't offer redundancy but gives the best W/R performance and RAID 1 offer redundancy by having 2 copies of a piece of data in 2 drives.
