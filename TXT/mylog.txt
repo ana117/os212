@@ -99,3 +99,6 @@ ZCZC W09  45 L13 Assignment #03 - Try W09 problems (continuing from sync session
 ZCZC W09  15 L11 Assignment #01 - Read OSC ch. 11 (continuing from sync session)
 ZCZC W09  10 L17 Assignment #07 - Review peer links
 ZCZC W09  15 L15 Assignment #05 - Update links (about RAID)
+ZCZC W09  70 L14 Assignment #04 - LFS ch. 7 done
+ZCZC W09   2 L18 Assignemnt #08 - Update log
+ZCZC W09   3 L19 Assignment #09 - Submit assignment
