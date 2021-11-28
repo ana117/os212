@@ -102,3 +102,8 @@ ZCZC W09  15 L15 Assignment #05 - Update links (about RAID)
 ZCZC W09  70 L14 Assignment #04 - LFS ch. 7 done
 ZCZC W09   2 L18 Assignemnt #08 - Update log
 ZCZC W09   3 L19 Assignment #09 - Submit assignment
+ZCZC W10  30 L11 Assignment #01 - Read OSC ch. 12
+ZCZC W10  30 L12 Assignment #02 - Try demos (but some didn't works)
+ZCZC W10  10 L17 Assignment #07 - Review links
+ZCZC W10   5 L18 Assignment #08 - Update log
+ZCZC W10  60 L14 Assignment #04 - LFS ch. 8 (but failed)
